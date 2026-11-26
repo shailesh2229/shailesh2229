@@ -40,6 +40,8 @@
 
 <sub>React 19 · React Router · MapLibre GL · Leaflet · OpenStreetMap · Vercel</sub>
 
+<sub>Started in 2025 as a team project with <a href="https://github.com/Anshum25">Anshum Dev</a> and <a href="https://github.com/Maurya-15">Maurya Doshi</a>. In November 2026 I rebuilt it into the version that is live today.</sub>
+
 [**Live app**](https://skiply-alpha.vercel.app) &nbsp;·&nbsp; [**Repository**](https://github.com/shailesh2229/skiply)
 
 <br>
